@@ -15,6 +15,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://IoanaTincu.github.io/my-helm-charts/my-app-1.0.0.tgz
+    - https://ioanatincu.github.io/my-helm-charts/my-app-1.0.0.tgz
     version: 1.0.0
 generated: "2024-05-30T19:14:21.3150597+03:00"
