@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-05-30T19:14:21.3172233+03:00"
+    description: A Helm chart for deploying my application components, including frontend,
+      backend, and database.
+    digest: 18e3a64879c3e887e2a6e543e4b32d6b8ecc80134cb5301b7bbf507143d319f4
+    keywords:
+    - web
+    - frontend
+    - backend
+    - database
+    name: my-app
+    type: application
+    urls:
+    - https://IoanaTincu.github.io/my-helm-charts/my-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-05-30T19:14:21.3150597+03:00"
